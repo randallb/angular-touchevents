@@ -4,11 +4,11 @@ angular-touchevents
 Add touch events into AngularJS
 
 
-Inspired by AngularJS' implementation of "click dblclick mousedown..." and this gist: https://gist.github.com/3298323 
+Inspired by AngularJS' implementation of "click dblclick mousedown..." and this gist: `https://gist.github.com/3298323` 
 
 This ties in touch events to attributes like:
  
-   te-touchstart="add_something()"
+    te-touchstart="add_something()"
  
 Add in a script tag, then add `teTouchevents` to your app's dependencies.
 
